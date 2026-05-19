@@ -2,6 +2,8 @@
 // @name         Outside Troops
 // @version      1.0.0
 // @match        https://*.grepolis.com/game/*
+// @author       The Invincble
+// @description  Provides a cleaner/total overview of your outside troops including an option to send back empty transportships within 2 clicks
 // @grant        none
 // ==/UserScript==
 
